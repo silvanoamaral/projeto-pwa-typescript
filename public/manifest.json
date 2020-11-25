@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TWA React App",
+  "name": "Aplicativo desenvolvido em React App",
+  "description": "Aplicativo desenvolvido em React App para estudar TWA/PWA",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,8 +19,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "start_url": "/?utm_source=pwa",
+  "theme_color": "#0E0E0E",
+  "background_color": "#BB77ED"
 }
