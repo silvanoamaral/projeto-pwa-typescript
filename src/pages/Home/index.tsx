@@ -5,13 +5,7 @@ import logo from "../../logo.svg";
 function Home() {
   return (
     <>
-      <img
-        src={logo}
-        className="App-logo"
-        alt="logo"
-        height="250px"
-        width="250px"
-      />
+      <img src={logo} className="App-logo" alt="logo" />
       <p>
         Edit <code>src/App.tsx</code> and save to reload.
       </p>
