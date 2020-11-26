@@ -4,9 +4,9 @@ import { Switch, Route } from "react-router-dom";
 import "./App.css";
 
 import NavBar from "./components/NavBar";
+import Home from "./pages/Home";
 
 const About = lazy(() => import("./pages/About"));
-const Home = lazy(() => import("./pages/Home"));
 
 function App() {
   return (
