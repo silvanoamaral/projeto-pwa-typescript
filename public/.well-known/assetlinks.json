@@ -3,6 +3,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.herokuapp.app_reactjs_twa.twa",
-    "sha256_cert_fingerprints": ["6D:27:FD:92:8D:A8:9D:12:C8:12:58:61:50:96:52:AF:38:E5:1C:F0:73:B6:6D:D0:48:57:D6:BC:46:14:78:B1"]
+    "sha256_cert_fingerprints":
+    ["1A:87:F1:F5:CD:E9:53:9D:E3:12:35:F7:27:21:2B:9D:AB:44:B4:29:D3:C5:7C:A7:C0:DB:38:3F:1D:57:80:5A"]
   }
 }]
