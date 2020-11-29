@@ -23,6 +23,7 @@ function Home() {
       >
         Learn React
       </a>
+      <p>PWA (Progressive Web Apps)</p>
     </>
   );
 }
