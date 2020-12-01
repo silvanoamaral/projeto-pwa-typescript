@@ -21,6 +21,7 @@ function Home() {
         Learn React
       </a>
       <p>PWA (Progressive Web Apps)</p>
+      <p>{process.env.REACT_APP_NOT_SECRET_CODE}</p>
     </>
   );
 }
